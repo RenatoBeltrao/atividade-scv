@@ -9,4 +9,8 @@
     <td>Rodrigo</td>
     <td>Maceio</td>
   </tr>
+  <tr>
+    <td>Renato</td>
+    <td>Garanhuns</td>
+  </tr>
 </table>
